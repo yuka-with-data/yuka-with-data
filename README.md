@@ -1,8 +1,5 @@
 ### Hi! I'm Yuka 👋
 
-<!--
-**yuka-with-data/yuka-with-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are a few things about me to get started:
 
 - 🔭 I’m currently working on Data Science/Machine Learning project
@@ -15,3 +12,4 @@ Here are a few things about me to get started:
 - ⚡ Fun fact: I'm a Twitch Streamer😜
 - 🗾 I'm originally from: Tokyo, Japan!
 -->
+
