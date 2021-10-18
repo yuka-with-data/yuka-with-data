@@ -9,7 +9,7 @@ Here are a few things about me to get started:
 - 💬 Ask me about ... anything!
 - 📫 How to reach me: I'll let you know near the future.
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I'm a Twitch Streamer😜
+- ⚡ Fun fact: I can binge-watch Twitch livestream for hours 😜
 - 🗾 I'm originally from: Tokyo, Japan!
 -->
 
