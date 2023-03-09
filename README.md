@@ -4,7 +4,7 @@ Here are a few things about me to get started:
 
 - 🔭 I’m currently working on Data Science/Machine Learning project.
 - 🥅 My goal is to be hired as a data analyst or data scientist.
-- 🌱 I’m mainly using R and Python languages, but right now I'm practicing SQL.
+- 🌱 I enjoy learning Data analytics skill, and also like developing a simple Math game script for fun.
 - 🌐 I also code HTML and CSS for my GitHub.io Potfolio Website.
 - 👯 I’m looking to collaborate on any data related project.
 - 🤔 I always look for some company to co-work/study virtually.
