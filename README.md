@@ -3,7 +3,7 @@
 Here are a few things about me to get started:
 
 - 🔭 I’m currently working on Data Science/Machine Learning project.
-- 🥅 My goal is to be hired as a data analyst or data scientist.
+- 🥅 My goal is to break into the Data World by becoming a Data Scientist or AI Engineer.
 - 🌱 I enjoy learning Data analytics skill, and also like developing a simple Math game script for fun.
 - 🌐 I also code HTML and CSS for my GitHub.io Potfolio Website.
 - 👯 I’m looking to collaborate on any data related project.
