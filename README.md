@@ -1,7 +1,6 @@
 ### Yuka_with_Data's GitHub👋
-- This is the page to showcase some of the projects I have worked on in the past. I plan to update as I complete new projects.
 - 🔭 I’m learning everything about Data through hands-on projects.
-- 🥅 My goal is to break into the Data World.
-- 🌱 Currently Working On: Environmental Data Analysis & Feature Engineering
-- 🎙️ I am a Data Science Content Creator  
+- 🌱 Currently Working On: Music Attribute Data App, Environmental Data Analysis
+- 🎙️ I am a Data Science Content Creator
+- 🥅 My goal this year is to use my Data skills and knowledge to build several data applications.
 - 🤖 DS Programming Languages: R, Python, SQL
