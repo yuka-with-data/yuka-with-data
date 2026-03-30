@@ -1,7 +1,6 @@
 ### Yuka_with_Data's GitHub👋
-🚀 I'm on a data journey, leveraging my skills to unravel my own questions, with the hope that my answers become a part of solutions for problems we face today.
+🚀 I'm on a Data/ML/AI and Open Source journey—exploring my own questions, creating solutions, and contributing insights that tackle real-world problems.
 
-- 🌱 Currently Working On: Music Attribute Data App, Environmental Data Analysis
-- 🎙️ I am a Data Science Content Creator
-- 🥅 My goal this year is to use my Data skills and knowledge to build several data applications.
-- 🤖 DS Programming Languages: R, Python, SQL
+- 🌱 Currently Working On: Transportation Agent App, Communication App, and other innovative projects
+- 🥅 This Year’s Goal: Maximize contributions to open source projects
+- 🤖 Languages & Tools: R, Python, SQL
