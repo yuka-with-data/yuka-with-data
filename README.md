@@ -12,3 +12,6 @@
 - Build and share production-ready AI agent systems  
 - Design and publish reusable MCP servers and tools for real-world workflows  
 - Contribute to the evolution of MCP-based agent infrastructure (Python ecosystem focus)
+
+### 📅 Streak Card
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yuka-with-data&theme=tokyonight&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
