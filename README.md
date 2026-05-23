@@ -7,6 +7,12 @@
 - 💬 Miscommunication Detection Agent System  
 - 🧪 Experimental AI / MCP Tools
 
+### 🔨 One Commit at a Time
+I believe open source contribution does not require perfection or deep expertise from day one.
+Through my project, **One Commit at a Time**, I share my journey of learning and growing through consistent small contributions.
+
+📌 Repo: [one-commit-at-a-time](https://github.com/yuka-with-data/one-commit-a-day)
+
 ### 🥅 2026 Goals
 - Maximize meaningful open source contributions  
 - Build and share production-ready AI agent systems  
