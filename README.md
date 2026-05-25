@@ -13,6 +13,15 @@ Through my project, **One Commit at a Time**, I share my journey of learning and
 
 📌 Repo: [one-commit-at-a-time](https://github.com/yuka-with-data/one-commit-a-day)
 
+### 📝 Documentation Matters
+I'm continually learning how to create better documentation and improve developer learning experience -- areas that are often underestimated in open source.
+
+I enjoy:
+- writing a clear and beginner-friendly doc
+- learning how to communicate technical ideas more effectively
+- creating a structured doc that is clear and usable for both humans and machines
+- contributing doc improvements alongside code
+
 ### 🥅 2026 Goals
 - Maximize meaningful open source contributions  
 - Build and share production-ready AI agent systems  
