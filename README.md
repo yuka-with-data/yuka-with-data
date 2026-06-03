@@ -7,11 +7,11 @@
 - 💬 Miscommunication Detection Agent System  
 - 🧪 Experimental AI / MCP Tools
 
-### 🔨 One Commit at a Time
+### 🔨 One Commit a Day
 I believe open source contribution does not require perfection or deep expertise from day one.
-Through my project, **One Commit at a Time**, I share my journey of learning and growing through consistent small contributions.
+Through my project, **One Commit a Day**, I share my journey of learning and growing through consistent small contributions.
 
-📌 Repo: [one-commit-at-a-time](https://github.com/yuka-with-data/one-commit-a-day)
+📌 Repo: [one-commit-a-day](https://github.com/yuka-with-data/one-commit-a-day)
 
 ### 📝 Documentation Matters
 I'm continually learning how to create better documentation and improve developer learning experience -- areas that are often underestimated in open source.
