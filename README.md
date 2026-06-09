@@ -28,5 +28,7 @@ I enjoy:
 - Design and publish reusable MCP servers and tools for real-world workflows  
 - Contribute to the evolution of MCP-based agent infrastructure (Python ecosystem focus)
 
-### 📅 Streak Card
+### 📅 Stats Card
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuka-with-data&layout=compact)
+
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yuka-with-data&theme=tokyonight&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
