@@ -1,6 +1,18 @@
 {
   "config": {
-    // Disable rules that do not fit project style.
-    "MD013": false
-  }
+    // Line length
+    "MD013": false,
+    // First line heading level
+    "MD041": false,
+    // No inline HTML
+    "MD033": {
+    "allowed_elements": [
+      "a",
+      "img"
+      ]
+    }
+  },
+  "ignores": [
+    "node_modules/**"
+  ]
 }
