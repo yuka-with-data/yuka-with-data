@@ -1,11 +1,11 @@
 ### 🚀 Open Source | Data, ML, and AI Systems
 
-#### I'm on a Data/ML/AI and Open Source journey—exploring my own questions, creating solutions, and contributing insights that tackle real-world problems.
+#### I'm on a Data/ML/AI and Open Source journey—exploring my own questions, creating solutions, and contributing insights that tackle real-world problems
 
 ### 🌱 Currently Building
 
 - 🤖 AI Agent Systems  
-- 🔌 Public Transportation MCP Tools 
+- 🔌 Public Transportation MCP Tools
 - 💬 SKILL system
 - 🧪 Experimental AI / MCP Tools
 
