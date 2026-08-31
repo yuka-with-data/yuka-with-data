@@ -14,7 +14,7 @@
 I believe open source contribution does not require perfection or deep expertise from day one.
 Through my project, **One Commit a Day**, I share my journey of learning and growing through consistent small contributions.
 
-📌 Repo: [one-commit-a-day](https://github.com/yuka-with-data/one-commit-a-day)
+📌 Repo: [one-commit-a-day](https://github.com/yuka-with-data/one-commit-a-day) (Currently under dev for v.2)
 
 ### 📝 Documentation Matters
 
