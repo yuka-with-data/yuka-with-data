@@ -4,17 +4,18 @@
 
 ### 🌱 Currently Building
 
-- 🤖 AI Agent Systems  
+- 🤖 AI Agent Systems
 - 🔌 Public Transportation MCP Tools
 - 💬 SKILL system
 - 🧪 Experimental AI / MCP Tools
+- 🔨 One Commit a Day v2.X
 
 ### 🔨 One Commit a Day
 
 I believe open source contribution does not require perfection or deep expertise from day one.
-Through my project, **One Commit a Day**, I share my journey of learning and growing through consistent small contributions.
+I built **One Commit a Day**, a lightweight framework to help you find your way into open source, make consistent progress, and grow as a technical person in an ever-changing tech landscape.
 
-📌 Repo: [one-commit-a-day](https://github.com/yuka-with-data/one-commit-a-day) (Currently under dev for v.2)
+📌 Repo: [one-commit-a-day](https://github.com/yuka-with-data/one-commit-a-day) v2.0.1
 
 ### 📝 Documentation Matters
 
@@ -29,11 +30,13 @@ I enjoy:
 
 ### 🥅 2026 Goals
 
-- Maximize meaningful open source contributions  
-- Build and share production-ready AI agent systems  
-- Design and publish reusable MCP servers and tools for real-world workflows  
+- Maximize meaningful open source contributions
+- Build and share production-ready AI agent systems
+- Design and publish reusable MCP servers and tools for real-world workflows
 - Contribute to the evolution of MCP-based agent infrastructure (Python ecosystem focus)
 
 ### 📅 Stats Card
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yuka-with-data&theme=tokyonight&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+
+> **The grass may look greener on someone else's GitHub graph**, but what matters is making meaningful progress in your own journey, even when that progress is small.
