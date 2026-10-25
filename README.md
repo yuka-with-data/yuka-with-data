@@ -1,14 +1,20 @@
-### 🚀 Open Source | Data, ML, and AI Systems
+### 🚀 Open Source | Communication, Journaling & AI Systems
 
-#### I'm on a Data/ML/AI and Open Source journey—exploring my own questions, creating solutions, and contributing insights that tackle real-world problems
+#### Exploring how AI can improve the way we communicate, reflect, document, and learn. I build privacy-minded, local-first systems using open-weight models, Agentic AI, MCP, and Skills.
 
 ### 🌱 Currently Building
 
-- 🤖 AI Agent Systems
-- 🔌 Public Transportation MCP Tools
-- 💬 SKILL system
-- 🧪 Experimental AI / MCP Tools
-- 🔨 One Commit a Day v2.X
+- 💬 Communication Systems: AI-assisted writing and communication tools
+- 📓 Technical Journaling: Systems for documenting progress, reflecting, and learning
+- 📝 Documentation Tools: Experiments in making technical knowledge easier to capture and maintain
+- 🤖 Agentic AI Systems: Exploring MCP, Skills, and AI-powered workflows
+- 🔒 Local-First AI: Building with open-weight models and privacy in mind
+
+### 🎯 My Focus
+
+**Create, Contribute, and Solve**
+
+Building practical tools that help people communicate clearly, document knowledge, and turn ideas into action.
 
 ### 🔨 One Commit a Day
 
@@ -31,7 +37,6 @@ I enjoy:
 ### 🥅 2026 Goals
 
 - Maximize meaningful open source contributions
-- Build and share production-ready AI agent systems
 - Design and publish reusable MCP servers and tools for real-world workflows
 - Contribute to the evolution of MCP-based agent infrastructure (Python ecosystem focus)
 
